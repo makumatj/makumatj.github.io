@@ -1,8 +1,3 @@
----
-title: "my resume"
----
-
-
 ## Johnson Makumator-Jones,
 245-1081 Beaverhill blvd,
 R2J3R2,
