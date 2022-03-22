@@ -12,11 +12,11 @@ Expected date of completion: May 2022
 ### Employment History
 **Enumerator** 
 Statistics Canada Winnipeg, Manitoba, 2021
-•	Visit assigned neighborhoods and knock-on doors of households that have not yet
+-	Visit assigned neighborhoods and knock-on doors of households that have not yet
 participated in the Census
-•	Interview residents in assigned areas, explaining the purpose of the Census, answering
+-	Interview residents in assigned areas, explaining the purpose of the Census, answering
 their questions, and recording their answers
-•	Maintain and submit records of hours worked, miles driven, and expenses incurred on the job
+-	Maintain and submit records of hours worked, miles driven, and expenses incurred on the job
 •	Meet with supervisor to review procedures, report issues or concerns, and receive
 updated instructions
 •	Attend team meetings and communicate with other enumerators
