@@ -10,7 +10,7 @@ Winnipeg,Manitoba, Canada.
 +1(204)5578195
 makumatorj@gmail.com
 ### Education
-Bachelor of Science\
+Bachelor of Science
 University of Manitoba 
 Major- Computer Science
 Expected date of completion: May 2022
