@@ -1,14 +1,14 @@
 ## Johnson Makumator-Jones,
--245-1081 Beaverhill blvd,
+- 245-1081 Beaverhill blvd,
 R2J3R2,
 Winnipeg,Manitoba, Canada.
--+1(204)5578195
--makumatorj@gmail.com
+- +1(204)5578195
+- makumatorj@gmail.com
 ### Education
--Bachelor of Science
--University of Manitoba 
--Major- Computer Science
--Expected date of completion: May 2022
+- Bachelor of Science
+- University of Manitoba 
+- Major- Computer Science
+- Expected date of completion: May 2022
 ### Employment History
 **Enumerator** 
 Statistics Canada Winnipeg, Manitoba, 2021
