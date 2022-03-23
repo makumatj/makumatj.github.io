@@ -40,12 +40,15 @@ GitHub Pages confirms your theme selection by creating a file called _config.yml
 The instructions above were mainly inspired by certain principles that were found in Andrew Etter's book Modern Technical Writing and I would like to relate them to some of the principles in the book.
 
 **1. Make a static website using Jekyll theme**
+
 According to Andrew Etter, static websites can be very important when it comes to creating resume's and other important things on your GitHub mainly because of how portable, fast simple and secure they can be. To create a static website, you do not need to install anything. You can always host a static website on GitHub Pages and if you recall, that was what we did instructions 5 and 6.
 
 **2. Use a Lightweight Markup**
+
 Andrew Etter, in his book described that, using lightweight markups like markdown can make reading and writing less difficult as compared to XML-based languages like XHTML, DocBook, etc since they make contributions impossible for other people. They also require specialized knowledge of odd tags,etc. This inspired the writing of our resume in Markdown.
 
 **3. Use distributed version control**
+
 Andrew Etter says for technical writers, using distributed version control systems like  GitHub and GitHub Enterprise have better performance, allow for offline work, and are superior for concurrent work on the same file. Some other importance of using them especially GitHub is:
 - You can store your documentation in the same repository as its corresponding product source code. 
 - Documentation and code branches stay in sync.
