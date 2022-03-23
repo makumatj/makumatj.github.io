@@ -20,7 +20,7 @@ their questions, and recording their answers
 -	Meet with supervisor to review procedures, report issues or concerns, and receive
 updated instructions
 -	Attend team meetings and communicate with other enumerators
--	
+
 **Customer Service Representative/Quality Assurance**
 24-7intouch Polo, Park, Winnipeg 2018-2020
 -	Assisting customers with their needs by talking and replying to emails
