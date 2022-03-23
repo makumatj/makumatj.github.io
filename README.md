@@ -65,7 +65,7 @@ Because of all of these advantages, it is always best to host your resume on Git
  
 ### FAQs
 **Why is Markdown better than a word processor?**
-- This is because using lightweight markups like Markdown can make reading and writing less difficult to understand and makes it easy for other's to contribute.
+- This is because using lightweight markups like Markdown can make reading and writing less difficult to understand and makes it easy for others to contribute.
 
 **Why is my resume not showing up?**
-- This is because most GitHubb repository can take up to 20 minutes to update a change
+- This is because most GitHub repository can take up to 20 minutes to update a change
