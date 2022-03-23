@@ -1,5 +1,5 @@
 # How to host a resume on GitHub using Markdown and GitHub Pages
-This project descirbes practical steps on how to host a resume on GitHub and demonstrates the general priniciple of current technical writing as explained in [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+This project descirbes practical steps on how to host a resume on GitHub and demonstrates the general priniciple of current technical writing as explained in [Andrew Etter's book of Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## Prerequisites
 
